@@ -15,7 +15,7 @@ if(!isset($_SESSION['username'])){
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
-	<title>Search Job</title>
+	<title>Founded!</title>
 </head>
 <body>
 <center>
@@ -29,15 +29,34 @@ if(!isset($_SESSION['username'])){
 
  <td colspan="10">
 <center>
- 	<h3>Search Jobs</h3>
+ 	<big><b>Search Results</b></big><br><br>
 <input type="text" name="user" class="form-control" required/>
-<br/><br/> <a href="Job_Founded.php"><button class="button">job find</button></a><br/>
+ <button class="button">job find</button><br/>
  	</center>
-<center>
- 	<h2>Find and apply for a job its totally free!!</h2>
- </center><br/><br/>
- 	
- </td>
+<hr/>
+<left>
+	<big><b>Incepta Pharma Limited</b></big>
+	<p><b>Job Title: </b> <i>Marketing Officer</i></p>
+	<p><b>Requirment: </b> <i>Bechelor Degree Certificate</i></p>
+	<p><b>Experience: </b> <i>No Need</i></p>
+	
+	<p><button class="button">Apply Now</button></p>
+
+
+</left>
+<hr/>
+<left>
+	<big><b>iFahim IT Solution</b></big>
+	<p><b>Job Title: </b> <i>Full Time Web Devoloper</i></p>
+	<p><b>Requirment: </b> <i>Bechelor Degree Certificate in CSE</i></p>
+	<p><b>Experience: </b> <i>No Need</i></p>
+	
+	<p><button class="button">Apply Now</button></p>
+
+
+</left>
+
+
 	</tr>
 	<tr>
 <td colspan="10">
