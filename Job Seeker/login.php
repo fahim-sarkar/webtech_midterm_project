@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE HTML>
 <html lang="en-US">
 <head>
@@ -30,9 +32,10 @@
                 <td>Password</td>
 				<td>:</td>
                 <td><input type="password" name="password" class="form-control" required/></td>
+
             </tr>
         </table>
-        <hr />
+        <hr />  
 		<input name="remember" type="checkbox">Remember Me
 		<br/><br/>
         <input type="submit" value="Submit">        

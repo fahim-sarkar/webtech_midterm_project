@@ -39,11 +39,11 @@ if(!isset($_SESSION['username'])){
  <td colspan="5">
  	<center><a href="dashboard.php">Dashboard</a>
  		<br><br>
- 		<a href="dashboard.php">Profile</a>
+ 		<a href="Profile.php">My Profile</a>
  		<br><br>
- 		<a href="dashboard.php">Job Search</a>
+ 		<a href="Job_Search.php">Job Search</a>
  		<br><br>
- 		<a href="dashboard.php">Job Categories</a>
+ 		<a href="Job_Categories.php">Job Categories</a>
 
  	</center>
 
